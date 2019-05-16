@@ -1,0 +1,19 @@
+{
+  "name": "js_concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "variables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testernick79/JS_Concepts.git"
+  },
+  "author": "Nick Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testernick79/JS_Concepts/issues"
+  },
+  "homepage": "https://github.com/testernick79/JS_Concepts#readme"
+}
